@@ -1,0 +1,28 @@
+.title {
+    font-size: 30px;
+    font-weight: bold;
+    color: #333333;
+    z-index: 9;
+}
+
+.info {
+    width: 100%;
+    height: 80%;
+    background-color: azure;
+    z-index: 10;
+    position: fixed;
+    left: 0;
+}
+
+.Lore {
+    font-size: 25px;
+    color: #555555;
+    line-height: 1.5;
+    position: fixed;
+    z-index: 11;
+}
+
+.TXT {
+    font-size: medium;
+    color: black;
+}
